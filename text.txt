@@ -1,1 +1,2 @@
 Hello!
+Desktop 연동 완료!
